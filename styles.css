@@ -1,0 +1,49 @@
+body{
+    background:  lightgray;
+    margin:  0;
+   font-family: 'Nunito', sans-serif;
+}
+
+.header{
+    background: ;
+}
+h1{
+  background: white;  
+  margin: 0;
+  text-align: center;
+}
+.post{
+    margin-top: 20px;
+    background: white;
+    
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
+.post img{
+    width: 100%;
+}
+h2{
+    padding: 10px;
+    margin: 0%;
+}
+div.post .post-up div:first-child{
+    display: inline-block;
+    background: ;
+    width: 80%;
+}
+
+div.post .post-up div:last-child{
+    display: inline-block;
+ 
+    width: 20%;
+    text-align: right;
+}
+#move{
+    padding: 10px;
+    color: gray; 
+}
+.said{
+    padding: 15px;
+}
